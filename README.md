@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Sanket-ghub
+- 👀 I’m interested in learning to code and improve my skills...
+- 🌱 I’m currently learning data science...
+- 📫 How to reach me instagram- _madscientist_27 ...
+
+<!---
+Sanket-ghub/Sanket-ghub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
